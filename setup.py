@@ -5,7 +5,7 @@ from os import path
 here = path.abspath(path.dirname(__file__))
 
 setup(
-    name='cnn_sys_ident',
+    name='cadena_ploscb19',
     version='0.0.0',
     description='Deep learning models for V1 neural system identification',
     author='Santiago Cadena',
