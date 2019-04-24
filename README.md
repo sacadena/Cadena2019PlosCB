@@ -1,5 +1,5 @@
 # Deep convolutional models improve predictions of macaque V1 responses to natural images (Code)
-Code for Cadena, S. A, et al. (2019). Deep convolutional models improve predictions of macaque V1 responses to natural images. Plos Computational Biology
+Code for Cadena, S. A, et al. (2019). Deep convolutional models improve predictions of macaque V1 responses to natural images. Plos Computational Biology. [Link to paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006897)
 
 ## Data License
 
