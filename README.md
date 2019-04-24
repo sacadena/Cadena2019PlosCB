@@ -15,7 +15,7 @@ To run this code you need the following:
 - Download the checkpoint weights of the normalized VGG-19 network [here](https://drive.google.com/open?id=1TvVGf2ClDARfSNfjbHLZLTtgHNe_jLVo) (80MB) and store them in the vgg_weights/ folder
 
 <p align="center">
- <img src="Fig3.pdf" width=80%>
+ <img src="fig3.png" width=80%>
 </p>
 
 ## Citation
