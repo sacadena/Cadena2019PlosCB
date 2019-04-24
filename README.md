@@ -12,10 +12,11 @@ The data shared with this code is  licensed under a This work is licensed under 
 To run this code you need the following:
 - Python3
 - Tensorflow 1.5
-- Download the checkpoint weights of the normalized VGG-19 network [here](https://drive.google.com/open?id=1TvVGf2ClDARfSNfjbHLZLTtgHNe_jLVo) (80MB) and store them in the vgg_weights/ folder
+- The data is available in a [GIN](https://web.gin.g-node.org/doi/Cadena_PlosCB19_data) repository. Either download and unzip the contents found [here](https://doid.gin.g-node.org/2e31e304e03d6357c98ac735a1fe5788/2e31e304e03d6357c98ac735a1fe5788.zip) and sore them in the folder `Cadena_PlosCB19_data/` or clone the contents of the GIN repository in the same folder. 
+- Download the checkpoint weights of the normalized VGG-19 network [here](https://drive.google.com/open?id=1TvVGf2ClDARfSNfjbHLZLTtgHNe_jLVo) (80MB) and store them in the `vgg_weights/` folder
 
 <p align="center">
- <img src="fig3.png" width=80%>
+ <img src="fig3.png" width=70%>
 </p>
 
 ## Citation
